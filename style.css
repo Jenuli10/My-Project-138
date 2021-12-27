@@ -49,3 +49,9 @@ video {
     background-position: center;
     padding: 25px;
 }
+.footer{
+    float:left;
+    background-color:rgb(83, 83, 172);
+    position: fixed;
+
+}
